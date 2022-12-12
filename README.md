@@ -1,6 +1,6 @@
 # ImmunoCure Electronic Medical Record System - IC-EMR
 
-## The code perform two major functions a) Makes folders of files and places them in their respective folders b) Takes a .csv file and creates a HTML with hyperlinks to the open the files in their folders
+### The code perform two major functions a) Makes folders of files and places them in their respective folders b) Takes a .csv file and creates a HTML with hyperlinks to the open the files in their folders
 
 Of course the code can be used as a file organization tool, however, I've designed it for managing Medical Records of patients
 ##
