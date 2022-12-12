@@ -14,8 +14,8 @@ Of course the code can be used as a file organization tool, however, I've design
 ### If a file is already found in the folder the duplicate file is moved form the main folder to the 'Duplicate' folder
 ### Finally, it makes the clickable hyperlinked HTML file for viewing the scanned documents according to the Patient Library file (.csv)
 ##
-## Dr. Mohammad Saeed
-## Consultant Rheumatology and Immunogenetics
-## ImmunoCure Center for Inflammatory Diseases
-## Email: msaeed@immunocure.pk
-## Twitter: DrMSaeed_pk, ImmunoCure_pk
+### Dr. Mohammad Saeed
+### Consultant Rheumatology and Immunogenetics
+### ImmunoCure Center for Inflammatory Diseases
+### Email: msaeed@immunocure.pk
+### Twitter: DrMSaeed_pk, ImmunoCure_pk
